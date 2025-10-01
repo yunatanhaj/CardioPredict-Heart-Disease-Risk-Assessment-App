@@ -26,3 +26,4 @@ The training and validation process for the core ML model is available in the de
 | **ML/Data** | Scikit-learn, NumPy | Model loading and prediction |
 
 ---
+[Watch the CardioPredict Demo](https://drive.google.com/file/d/1pEF1UX7yg0X5Scerw3P-KT8sA7-noDLW/view?usp=sharing)
